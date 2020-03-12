@@ -4,5 +4,6 @@ public class HelloWorld {
 		System.out.println("Hell World");
 	}
 }
-// ctr + n (새 파일 만들기)
-// ctr + F11 (실행)
+// ctrl + n (새 파일 만들기)
+// ctrl + F11 (실행)
+// ctrl + s (저장)

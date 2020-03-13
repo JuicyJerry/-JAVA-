@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>HelloJava</name>
+=======
+<<<<<<< HEAD
+	<name>Gugudan</name>
+=======
+	<name>HelloWorld</name>
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
 	<comment></comment>
 	<projects>
 	</projects>
